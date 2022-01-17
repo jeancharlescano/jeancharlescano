@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on FIORI app
-- 🌱 I’m currently learning vuejs, nodejs
+- 🌱 I’m currently learning vuejs, nodejs and sap Fiori 
 - 👯 I’m looking to collaborate with my friends
 - ⚡ Fun fact: I'm not a developper
 
