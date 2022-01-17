@@ -11,6 +11,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not a developper
 -->
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://instagram.com/jc_cno
+[linkedin]: https://www.linkedin.com/in/jean-charles-cano/
+
 ### GitHub Stats
 
 ![jeancharlescano's github stats](https://github-readme-stats.vercel.app/api?username=jeancharlescano&count_private=true&theme=tokyonight)
