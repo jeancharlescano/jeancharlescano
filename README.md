@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Jean-Charles CANO's github stats](https://github-readme-stats.vercel.app/api?username=jeancharlescano&count_private=true&theme=tokyonight)
+![jeancharlescano's github stats](https://github-readme-stats.vercel.app/api?username=jeancharlescano&count_private=true&theme=tokyonight)
