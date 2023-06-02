@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on react / react native app
 - 🌱 I’m currently learning vuejs, nodejs, react and react native
 - 👯 I’m looking to collaborate with my friends
-- ⚡ Fun fact: I'm not a developper
+- ⚡ Fun fact: I'm not fun
 
 
 ### Contact me:
